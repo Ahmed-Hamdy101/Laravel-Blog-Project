@@ -1,12 +1,3 @@
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-![Laravel-project](https://lh3.googleusercontent.com/bxb09L4iAAwANsr8KnDLhy0-M1E8gmK9hDPolfEmXGeXYiFshWapU3JUjJL1GVv6o_FIiMfUsjL64Uha4sILIAztlE4fK122FTknzBnle_Q0nE3e1-3F7wt6WYgozH-OHp25bt4VTgwvXB-1U6zboGDJJVnDKodQ1Te0fQDh9GxDiOLR_Lak4XGPT9bFlCmZ_0gRqkQI8Zdh6clu5BSYIc7bbx5TT6lAoteFcU4A_4C7vro6VKssrn7mocHQsxGkOZ-FGoxp3LcIzzG1PGQPsgmjwQn1NAXazYkjUtcfsDRCzAg4bFDHLiqQ9TCYx8ktQtt-JAn1YG1ZPJCGNazixjyGF_N-71gT7CIOq3PTwTrjdV8X01HwWjx9yLV3ju6ZUw6YpXJbVIxMWFXRRKUE7G_YCFUd5zRGUPtbtSkOhWnxZd5YGDjaITgnku4MaiYMB_FlkD8D8NFNNM8AOMxT2l6HpE7MxbsRPVeh61qcBQP02VuHar1I9W8J3yVNqSCAK6KompM-AQYcnOU-QUG-Kba2l68xCZjSeSkFadVTrX2F1YT2RikmLcsZn_b4cutvB_-c0nWvFIwSXDWNqVt1lUsUcDYbrWz1HXs4oytovALaynpMa-9SQiT_Vl_23v6Q-yTwmPxcKfuJUF0kM-byoRSZ872g97DFu9Jz5qQvY55yLx3GjkPqlmoQDXjl790J-6Z1n9gtHAE6oC7URPqmDKPtEqMXcau_Q0rUpfbsl6WkeuAQanmYUVxn97-8bcFcs1GlkQd63GEXOfRjjl2GEMG6db72u87Q7aOeywUJ2xyYD9secSY6u2pfLnC3D3WWbvAGOz-DNEboQAZje3RO1uaWLV8lHoho_Bfs2-85KFWWXweGP08SmZSDcLab7pPhQLgeyLBF6R-nZlA_upqudQ6Bcf8DRTwjPCZkNwI2OmZAGsV-gobI5-xluEmKxUyh9qF4XrDAzJI=w1005-h577-no?authuser=0)
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
  #### Requirements :
 -  **Web Server ** Apcahe 
 -  **Laravel Server** ` php artisan serve `
@@ -19,6 +10,16 @@
 |localhost/posts| show all post |
 |localhost/posts/id/edit| update specific post |
 |localhost/posts/create| Create post |
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
+![Laravel-project](https://lh3.googleusercontent.com/bxb09L4iAAwANsr8KnDLhy0-M1E8gmK9hDPolfEmXGeXYiFshWapU3JUjJL1GVv6o_FIiMfUsjL64Uha4sILIAztlE4fK122FTknzBnle_Q0nE3e1-3F7wt6WYgozH-OHp25bt4VTgwvXB-1U6zboGDJJVnDKodQ1Te0fQDh9GxDiOLR_Lak4XGPT9bFlCmZ_0gRqkQI8Zdh6clu5BSYIc7bbx5TT6lAoteFcU4A_4C7vro6VKssrn7mocHQsxGkOZ-FGoxp3LcIzzG1PGQPsgmjwQn1NAXazYkjUtcfsDRCzAg4bFDHLiqQ9TCYx8ktQtt-JAn1YG1ZPJCGNazixjyGF_N-71gT7CIOq3PTwTrjdV8X01HwWjx9yLV3ju6ZUw6YpXJbVIxMWFXRRKUE7G_YCFUd5zRGUPtbtSkOhWnxZd5YGDjaITgnku4MaiYMB_FlkD8D8NFNNM8AOMxT2l6HpE7MxbsRPVeh61qcBQP02VuHar1I9W8J3yVNqSCAK6KompM-AQYcnOU-QUG-Kba2l68xCZjSeSkFadVTrX2F1YT2RikmLcsZn_b4cutvB_-c0nWvFIwSXDWNqVt1lUsUcDYbrWz1HXs4oytovALaynpMa-9SQiT_Vl_23v6Q-yTwmPxcKfuJUF0kM-byoRSZ872g97DFu9Jz5qQvY55yLx3GjkPqlmoQDXjl790J-6Z1n9gtHAE6oC7URPqmDKPtEqMXcau_Q0rUpfbsl6WkeuAQanmYUVxn97-8bcFcs1GlkQd63GEXOfRjjl2GEMG6db72u87Q7aOeywUJ2xyYD9secSY6u2pfLnC3D3WWbvAGOz-DNEboQAZje3RO1uaWLV8lHoho_Bfs2-85KFWWXweGP08SmZSDcLab7pPhQLgeyLBF6R-nZlA_upqudQ6Bcf8DRTwjPCZkNwI2OmZAGsV-gobI5-xluEmKxUyh9qF4XrDAzJI=w1005-h577-no?authuser=0)
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
 
 ## About Laravel
 
