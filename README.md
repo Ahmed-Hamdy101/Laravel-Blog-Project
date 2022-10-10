@@ -10,7 +10,7 @@
 
 
  #### Requirements :
--  **Web Server ** Apcahe 
+-  **Web Server** Apcahe 
 -  **Laravel Server** ` php artisan serve `
 ## Command for npm :
 -  **Run Dev** ` npm run dev `
